@@ -1,8 +1,5 @@
 .row{
     display:flex;
-    
-    
-    
 }
 .number{
     width:25%;
@@ -11,17 +8,12 @@
     background:maroon;
     color:whitesmoke;
     width:25%;
-
 }
-.clear{
+.big-button{
     width:75%;
-    
 }
 .calc-container{
     border: 2px solid gray;
-    width:100px;
+    width:150px;
 }
 
-.zero{
-    width:75%;
-}

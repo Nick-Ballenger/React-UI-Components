@@ -14,7 +14,7 @@ const App = () => {
 
 
       <div className='row'>
-        <ActionButton buttonStyle='clear' text='clear' />
+        <NumberButton buttonStyle='big-button' text='clear'/>
         <NumberButton buttonStyle='operator' text='÷' />
       </div>
       <div className='row'>
@@ -36,7 +36,7 @@ const App = () => {
         <NumberButton buttonStyle='operator' text='+' />
       </div>
       <div className='row'>
-        <NumberButton buttonStyle='zero' text='0' />
+        <NumberButton buttonStyle='big-button' text='0' />
         <NumberButton buttonStyle='operator' text='=' />
       </div>
     </div>
