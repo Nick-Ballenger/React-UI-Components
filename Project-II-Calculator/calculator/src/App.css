@@ -1,0 +1,19 @@
+.row{
+    display:flex;
+}
+.number{
+    width:25%;
+}
+.operator{
+    background:maroon;
+    color:whitesmoke;
+    width:25%;
+}
+.big-button{
+    width:75%;
+}
+.calc-container{
+    border: 2px solid gray;
+    width:150px;
+}
+
